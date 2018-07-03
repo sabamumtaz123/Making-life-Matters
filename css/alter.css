@@ -1,0 +1,55 @@
+.mashead {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 200px 0;
+  text-align: center;
+  color: black;
+  background: url("../img/3.jpg") no-repeat bottom center scroll;
+  opacity: 0.6;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.br{
+border-radius: 90%;
+}
+
+
+.contact-bg {
+  color: white;
+ background: url("../img/14.jpg") no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.tc{
+	font:  30px bold;
+}
+
+
+.shop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.space{
+margin:50px;
+color: black;
+
+
+}
+
+
+
+.hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #D50000;
+}
+
